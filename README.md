@@ -5,4 +5,4 @@
        
        Below you will find a screenshot of the deployed application.  Please reach out if you have any concerns and or changes to discuss, thanks!  
        
-       ![image](https://user-images.githubusercontent.com/68496627/111112619-ad1f7d80-851d-11eb-8427-03f81ebeca80.png)
+![image](https://user-images.githubusercontent.com/68496627/111112677-d04a2d00-851d-11eb-9232-e6fce5a55466.png)
